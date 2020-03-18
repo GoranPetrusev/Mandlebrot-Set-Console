@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578620112 source:d:\codeblocks projects\mandelbrot set\main.cpp
+	<iostream>
+
+1580733387 source:d:\codeblocks projects\freetime projects\mandelbrot set\main.cpp
+	<iostream>
+
